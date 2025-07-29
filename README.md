@@ -6,6 +6,8 @@
 [![CI](https://github.com/kevinyamauchi/mechanotrack/actions/workflows/ci.yml/badge.svg)](https://github.com/kevinyamauchi/mechanotrack/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/kevinyamauchi/mechanotrack/branch/main/graph/badge.svg)](https://codecov.io/gh/kevinyamauchi/mechanotrack)
 
+🚨 This repo is still under construction. Please check back later. 🚨
+
 Tracking mechanical properties over time.
 
 ## Development
